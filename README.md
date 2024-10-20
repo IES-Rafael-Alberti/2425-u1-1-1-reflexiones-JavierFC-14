@@ -90,3 +90,8 @@ Apoyate en los siguientes recursos para realizar la práctica:
 1.2.2. Esa información es liberada para que la memoria pueda procesar otras funciones.
 1.2.3. Inicialización,ejecución y gestión de memoria
 1.2.4.No se como responder esta pregunta, no entiendo.
+2. Del código fuente al ejecutable
+2.1. Basicamente el código fuente es el conjunto de instrucciones escritas por un programador en un lenguaje de programación, el código objeto es el resultado de compilar el código fuente y el código ejecutable es la versión final del programa, listo para funcionar.
+2.2. El programa necesita ser compilado, además necesita ciertos enlaces adicionales a bibliotecas o ciertos módulos.
+2.3. El paso de enlazado seguramente será el más importante de todo el proceso, puesto que reúne todas las piezas del programa en un único ejecutable.
+2.4. El programa no funcionará, si falta el código objeto no podrás enlazar el programa y por tanto no podrás obtener el ejecutable, y si falta el código ejecutable no podrás ejecutar el programa debido a que faltarán ciertas instrucciones
