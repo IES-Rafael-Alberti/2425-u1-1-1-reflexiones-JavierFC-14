@@ -95,3 +95,8 @@ Apoyate en los siguientes recursos para realizar la práctica:
 2.2. El programa necesita ser compilado, además necesita ciertos enlaces adicionales a bibliotecas o ciertos módulos.
 2.3. El paso de enlazado seguramente será el más importante de todo el proceso, puesto que reúne todas las piezas del programa en un único ejecutable.
 2.4. El programa no funcionará, si falta el código objeto no podrás enlazar el programa y por tanto no podrás obtener el ejecutable, y si falta el código ejecutable no podrás ejecutar el programa debido a que faltarán ciertas instrucciones
+3. Generación de código intermedio
+3.1. Son códigos los cuales pueden ser ejecutados por diferentes maquinas virtuales mientras que el ejecutable es un código hecho para una plataforma específica
+3.2. Son muy útiles por que permiten hacer de mediador entre un código intermedio y el hardware
+3.3. Por su portabilidad, seguridad y por su optimización de tiempo de ejecución
+3.4. c++
