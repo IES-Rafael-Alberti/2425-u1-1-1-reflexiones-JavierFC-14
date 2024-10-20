@@ -78,3 +78,15 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+
+
+1. Relación software y hardware
+1.1. Primera parte
+1.1.1. Primero han de ejecutarse las 3 primeras fases: fuente, objeto y ejecutable
+1.1.2. El botón envía información a nuestra memoria RAM la cual se almacena y es ejecutada por la CPU
+1.1.3.Mediante diversos conectores como son el SATA, PCIe , USB...
+1.2. Segunda parte
+1.2.1. Los perifericos mandan información a la memoria la cual almacena esa información y el procesador se encarga de ejecutarla en forma de procesos
+1.2.2. Esa información es liberada para que la memoria pueda procesar otras funciones.
+1.2.3. Inicialización,ejecución y gestión de memoria
+1.2.4.No se como responder esta pregunta, no entiendo.
